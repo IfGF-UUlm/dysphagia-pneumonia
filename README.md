@@ -12,7 +12,17 @@ pending
 
 ## Scoring System
 
-pending
+| FEES parameter                                | Score |
+|-----------------------------------------------|-------|
+| Prolonged oral phase (excluding bread)        | 1     |
+| Delayed swallow reflex trigger (> 3 s)        | 1     |
+| Reduced white-out intensity (< 1/3)           | 1     |
+| Repetitive swallowing (excluding breadl, ≥ 2) | 1     |
+| Piriform sinus residue (YPRSRS ≥ 3)           | 1     |
+| Penetration-aspiration (PAS ≥ 3)              | 1     |
+
+A score ≥ 4 is associated with the development of pneumonia, with a sensitivity of 0.46 and a specificity of 0.89 in our cohort.
+
 
 ## Repository Structure
 
